@@ -1,0 +1,3 @@
+This application, much like the OSX terminal simulator allows one to, on a guest or restricted account, run applications from unidentified developers on OS X.
+
+Run the applescript and then select the application that you would like to run. If necessary, the application might have multiple binaries. Select the appropriate one, and it will open. Should work for most apps and help you in a bind.
